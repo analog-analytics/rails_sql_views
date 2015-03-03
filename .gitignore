@@ -1,3 +1,7 @@
 pkg/*
 *~
 test/connection.yml
+
+.ruby-version
+.ruby-gemset
+
