@@ -22,7 +22,6 @@
 #++
 
 $:.unshift(File.dirname(__FILE__))
-ActiveSupport::Dependencies.autoload_paths.unshift File.expand_path("../../lib", __FILE__)
 
 require 'active_record'
 
